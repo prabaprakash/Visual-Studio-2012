@@ -1,0 +1,32 @@
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\priconfig.xml
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\layout.resfiles
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\resources.resfiles
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\pri.resfiles
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.winmd
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.pdb
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.pri
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.winmd
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.pdb
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.winmdobj
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.compile.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.winmdobj
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\BackgroundTasks.compile.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\obj\Release\LanguageQualifiers.txt

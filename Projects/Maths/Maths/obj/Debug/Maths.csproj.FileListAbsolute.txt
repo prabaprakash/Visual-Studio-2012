@@ -1,0 +1,10 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\bin\Debug\Maths.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\bin\Debug\Maths.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\bin\Debug\Maths.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Maths\Maths\obj\Debug\Maths.Form2.resources

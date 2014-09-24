@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distributed", "Distributed\Distributed.csproj", "{FE7ABE39-9363-4D09-84FA-8BCB27C084B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home.Web", "Home.Web\Home.Web.csproj", "{52B5582A-1DBD-4EDE-BFE6-F14C4DC4C3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7ABE39-9363-4D09-84FA-8BCB27C084B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7ABE39-9363-4D09-84FA-8BCB27C084B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7ABE39-9363-4D09-84FA-8BCB27C084B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7ABE39-9363-4D09-84FA-8BCB27C084B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B5582A-1DBD-4EDE-BFE6-F14C4DC4C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B5582A-1DBD-4EDE-BFE6-F14C4DC4C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B5582A-1DBD-4EDE-BFE6-F14C4DC4C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B5582A-1DBD-4EDE-BFE6-F14C4DC4C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

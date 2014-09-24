@@ -1,0 +1,12 @@
+﻿<Window x:Class="DBMS.stack"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="stack" Height="300" Width="300">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Background="Blue" Margin="0,68,45,164">
+            <Image Source="icon.ico" Width="40" Height="40"></Image>
+            <TextBlock Text="hello" Margin="0,10" Width="210"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

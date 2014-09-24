@@ -1,0 +1,6 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Xaml Serializer\Xaml Serializer\bin\Debug\Xaml Serializer.exe.config
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Xaml Serializer\Xaml Serializer\bin\Debug\Xaml Serializer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Xaml Serializer\Xaml Serializer\bin\Debug\Xaml Serializer.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Xaml Serializer\Xaml Serializer\obj\Debug\Xaml Serializer.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Xaml Serializer\Xaml Serializer\obj\Debug\Xaml Serializer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Xaml Serializer\Xaml Serializer\obj\Debug\Xaml Serializer.pdb

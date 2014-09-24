@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B215530B7675A99B166BD2EA9389C8045B2A16302705284DF172B463A08D23E0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d3097f1e-8457-47c2-a19c-45fe8a06eb95_1.0.0.0_neutral__357g7sqkmfbsp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d3097f1e-8457-47c2-a19c-45fe8a06eb95_357g7sqkmfbsp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d3097f1e-8457-47c2-a19c-45fe8a06eb95</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=PrabaKarthi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-20T22:05:58.757</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\Invoke Charm.exe">
+      <PackagePath>Invoke Charm.exe</PackagePath>
+      <Modified>2013-04-20T22:12:11.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\Invoke Charm.pdb">
+      <PackagePath>Invoke Charm.pdb</PackagePath>
+      <Modified>2013-04-20T22:12:11.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-20T21:50:59.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-20T22:07:33.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\Invoke Charm\Invoke Charm\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-20T22:05:58.665</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

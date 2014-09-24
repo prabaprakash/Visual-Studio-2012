@@ -1,0 +1,92 @@
+﻿Build started 5/18/2013 3:14:27 PM.
+     1>Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\Mpeg1Decoder.vcxproj" on node 4 (Build target(s)).
+     1>Midl:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\midl.exe /metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /winrt /W1 /nologo /char signed /env arm32 /h "MPEG1Decoder.h" /tlb "ARM\Debug\MPEG1Decoder.tlb" /enum_class /ns_prefix MPEG1Decoder.idl 
+         MIDLRT Processing .\MPEG1Decoder.idl
+         MPEG1Decoder.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Media.idl
+         Windows.Media.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Foundation.idl
+         Windows.Foundation.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\IVectorChangedEventArgs.idl
+         IVectorChangedEventArgs.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Users\PRABAK~1\AppData\Local\Temp\MPEG1Decoder.idl-ff3c3abb
+         MPEG1Decoder.idl-ff3c3abb
+         Processing .\Windows.Media.idl-051dcb1d
+         Windows.Media.idl-051dcb1d
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         Processing .\Windows.Foundation.idl-2a898555
+         Windows.Foundation.idl-2a898555
+         Processing .\IVectorChangedEventArgs.idl-105538ee
+         IVectorChangedEventArgs.idl-105538ee
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.acf
+         oaidl.acf
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_ARM\CL.exe /c /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\\" /IARM\Debug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\\" /I"Generated Files\\" /IARM\Debug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\\..\Common" /Zi /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _DEBUG /D _WINDOWS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"ARM\Debug\\" /Fd"ARM\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt decoder.cpp Dll.cpp
+         decoder.cpp
+         Dll.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_ARM\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.dll" /INCREMENTAL /NOLOGO runtimeobject.lib kernel32.lib mf.lib mfuuid.lib mfplat.lib /DEF:"decoder.def" /MANIFEST:NO /DEBUG /PDB:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:ARM /DLL ARM\Debug\decoder.obj
+         ARM\Debug\Dll.obj
+            Creating library C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.lib and object C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.exp
+         Mpeg1Decoder.vcxproj -> C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.dll
+       CustomBuildStep:
+         mdmerge -metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" -o "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\MPEG1Decoder" -i "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder" -v -partial
+         :VCEnd
+         Microsoft(R) Metadata Merge Utility Version 8.0.18.
+         
+         
+         Load input metadata file C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd.
+         Processed input metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\MPEG1Decoder.winmd.
+         Saved output metadata file MPEG1Decoder.winmd.
+         Validating metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\MPEG1Decoder\MPEG1Decoder.winmd.
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\MakePri.exe New -ProjectRoot "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\\" -ConfigXml ARM\Debug\priconfig.xml -OutputFile "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Mpeg1Decoder\MPEG1Decoder.pri" -IndexName MPEG1Decoder -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\Mpeg1Decoder.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:21.07

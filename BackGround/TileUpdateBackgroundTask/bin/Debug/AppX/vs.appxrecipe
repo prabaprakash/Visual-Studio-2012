@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>491F6D0972F0E6E5DD998C0D126E588255E6F4BFF852E85BD4B30280C4F72DCA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c36050f1-d46a-43d8-b817-164f5fbb3b55_1.0.0.0_neutral__tbz3402trp7yy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c36050f1-d46a-43d8-b817-164f5fbb3b55_tbz3402trp7yy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c36050f1-d46a-43d8-b817-164f5fbb3b55</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dave</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T03:28:02.825</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\TileUpdateBackgroundTask.exe">
+      <PackagePath>TileUpdateBackgroundTask.exe</PackagePath>
+      <Modified>2013-04-27T03:28:02.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\TileUpdateBackgroundTask.pdb">
+      <PackagePath>TileUpdateBackgroundTask.pdb</PackagePath>
+      <Modified>2013-04-27T03:28:02.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\Debug\BackgroundTasks.pdb">
+      <PackagePath>BackgroundTasks.pdb</PackagePath>
+      <Modified>2013-04-27T03:28:00.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\Debug\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+      <Modified>2013-04-27T03:28:00.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\Assets\badge.png">
+      <PackagePath>Assets\badge.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-21T22:07:08.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-21T22:07:08.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\TileUpdateBackgroundTask\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-26T15:51:22.792</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

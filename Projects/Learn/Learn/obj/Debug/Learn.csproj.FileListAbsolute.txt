@@ -1,0 +1,9 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\bin\Debug\Learn.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\bin\Debug\Learn.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\bin\Debug\Learn.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\obj\Debug\Learn.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\obj\Debug\Learn.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\obj\Debug\Learn.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\obj\Debug\Learn.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Learn\Learn\obj\Debug\Learn.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Learn\Learn\obj\Debug\Learn.csprojResolveAssemblyReference.cache

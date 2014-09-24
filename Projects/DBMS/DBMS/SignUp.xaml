@@ -1,0 +1,97 @@
+﻿<Window x:Name="logo" x:Class="DBMS.SignUp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SignUp" Height="543.868" Width="886.176" Icon="icon.ico" Closed="Window_Closed_1">
+    <Window.Background>
+        <ImageBrush/>
+    </Window.Background>
+    <Grid  ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Margin="0,0,411,0">
+        <Grid HorizontalAlignment="Left" Height="513" Background="White" VerticalAlignment="Top" Width="390">
+            <TextBox Name="name" HorizontalAlignment="Left" Height="26" Margin="154,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="128" TextChanged="TextBox_TextChanged_1"/>
+            <DatePicker  DisplayDateEnd="12-31-1997"  DisplayDateStart="1-1-1992" SelectedDateFormat="Short"  Name="datepicker1" HorizontalAlignment="Left" Height="26" Margin="154,44,0,0" VerticalAlignment="Top" Width="128" DisplayDate="1992-01-01"/>
+            <RadioButton Name="radio1"  Content="Male" HorizontalAlignment="Left" Height="17" Margin="154,81,0,0" VerticalAlignment="Top" Width="66" Checked="RadioButton_Checked_1"/>
+            <RadioButton Name="radio2" Content="Female" HorizontalAlignment="Left" Height="17" Margin="234,81,0,0" VerticalAlignment="Top" Width="60" Checked="RadioButton_Checked_2"/>
+            <TextBox Name="address" HorizontalAlignment="Left" Height="23" Margin="153,207,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="173"/>
+            <TextBox Name="city" HorizontalAlignment="Left" Height="25" Margin="153,241,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="116"/>
+            <TextBox Name="state" HorizontalAlignment="Left" Height="25" Margin="153,274,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="138"/>
+            <TextBox Name="pincode" HorizontalAlignment="Left" Height="25" Margin="153,307,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="138"/>
+            <TextBox Name="country" HorizontalAlignment="Left" Height="25" Margin="151,344,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="140"/>
+            <ComboBox Name="religion" HorizontalAlignment="Left" Height="25" Margin="154,104,0,0" VerticalAlignment="Top" Width="128" SelectionChanged="ComboBox_SelectionChanged_2">
+                <ComboBoxItem Content="Hindhu"></ComboBoxItem>
+                <ComboBoxItem Content="Muslim"></ComboBoxItem>
+                <ComboBoxItem Content="Christian"></ComboBoxItem>
+                <ComboBoxItem Content="Others"></ComboBoxItem>
+            </ComboBox>
+            <ComboBox Name="community" HorizontalAlignment="Left" Height="25" Margin="154,137,0,0" VerticalAlignment="Top" Width="128" SelectionChanged="ComboBox_SelectionChanged_1">
+                <ComboBoxItem Content="BC"></ComboBoxItem>
+                <ComboBoxItem Content="MBC"></ComboBoxItem>
+                <ComboBoxItem Content="OBC"></ComboBoxItem>
+                <ComboBoxItem Content="FC"></ComboBoxItem>
+                <ComboBoxItem Content="SC"></ComboBoxItem>
+            </ComboBox>
+            <ComboBox  Name="nationality" HorizontalAlignment="Left" Height="25" Margin="153,168,0,0" VerticalAlignment="Top" Width="129">
+                <ComboBoxItem Content="Indian"></ComboBoxItem>
+                <ComboBoxItem Content="Anglo Indian"></ComboBoxItem>
+                <ComboBoxItem Content="Others"></ComboBoxItem>
+              
+            </ComboBox>
+            <ComboBox Name="bloodgroup" HorizontalAlignment="Left" Height="25" Margin="151,377,0,0" VerticalAlignment="Top" Width="116" >
+                <ComboBoxItem Content="A-"></ComboBoxItem>
+                <ComboBoxItem Content="B-"></ComboBoxItem>
+                <ComboBoxItem Content="A+"></ComboBoxItem>
+                <ComboBoxItem Content="B+"></ComboBoxItem>
+                <ComboBoxItem Content="AB-"></ComboBoxItem>
+                <ComboBoxItem Content="AB+"></ComboBoxItem>
+                <ComboBoxItem Content="O+"></ComboBoxItem>
+                <ComboBoxItem Content="O-"></ComboBoxItem>
+            </ComboBox>
+            <TextBox Name="mobileno" HorizontalAlignment="Left" Height="25" Margin="151,420,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="140"/>
+            <TextBox Name="emailid" HorizontalAlignment="Left" Height="25" Margin="151,454,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="199"/>
+            <Label Content="Mobile No" HorizontalAlignment="Left" Height="25" Margin="26,420,0,0" VerticalAlignment="Top" Width="91"/>
+            <Label Content="Email ID" HorizontalAlignment="Left" Height="25" Margin="26,454,0,0" VerticalAlignment="Top" Width="91"/>
+            <Label Content="Month/Date/Year" HorizontalAlignment="Left" Height="26" Margin="282,44,0,0" VerticalAlignment="Top" Width="108"/>
+        </Grid>
+        <Label Content="Name" HorizontalAlignment="Left" Height="25" Margin="21,10,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="Date of Birth" HorizontalAlignment="Left" Height="25" Margin="21,40,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="Gender" HorizontalAlignment="Left" Height="25" Margin="21,75,0,0" VerticalAlignment="Top" Width="57"/>
+        <Label Content="Religion" HorizontalAlignment="Left" Height="27" Margin="21,104,0,0" VerticalAlignment="Top" Width="57"/>
+        <Label Content="Community" HorizontalAlignment="Left" Height="25" Margin="21,136,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="Nationality" HorizontalAlignment="Left" Height="25" Margin="21,170,0,0" VerticalAlignment="Top" Width="117"/>
+        <Label Content="Address" HorizontalAlignment="Left" Height="25" Margin="21,207,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label Content="City" HorizontalAlignment="Left" Height="33" Margin="21,239,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label Content="State" HorizontalAlignment="Left" Height="33" Margin="21,272,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label Content="Pincode" HorizontalAlignment="Left" Height="29" Margin="21,310,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label Content="Country" HorizontalAlignment="Left" Height="28" Margin="21,339,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label Content="BloodGroup" HorizontalAlignment="Left" Height="34" Margin="21,372,0,0" VerticalAlignment="Top" Width="83"/>
+        <Grid Background="White" HorizontalAlignment="Left" Height="513" Margin="390,0,-414,0" VerticalAlignment="Top" Width="491">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Board Of Exam" HorizontalAlignment="Left" Height="26" Margin="37,35,0,0" VerticalAlignment="Top" Width="139"/>
+            <Label Content="Year of Passing" HorizontalAlignment="Left" Height="31" Margin="37,86,0,0" VerticalAlignment="Top" Width="139"/>
+            <Label Content="Grade" HorizontalAlignment="Left" Height="27" Margin="37,140,0,0" VerticalAlignment="Top" Width="139"/>
+            <Label Content="Medium of Instruction" HorizontalAlignment="Left" Height="29" Margin="37,185,0,0" VerticalAlignment="Top" Width="139"/>
+            <Label Content="School Name" HorizontalAlignment="Left" Height="26" Margin="37,235,0,0" VerticalAlignment="Top" Width="139"/>
+            <Label Content="Qualified Exam" HorizontalAlignment="Left" Height="26" Margin="37,280,0,0" VerticalAlignment="Top" Width="139"/>
+            <TextBox Name="yearofpassing" HorizontalAlignment="Left" Height="25" Margin="199,86,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="76"/>
+            <TextBox Name="grade" HorizontalAlignment="Left" Height="25" Margin="199,140,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="55"/>
+            <TextBox Name="mediumofinstruction" HorizontalAlignment="Left" Height="25" Margin="199,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176"/>
+            <TextBox Name="schoolname" HorizontalAlignment="Left" Height="25" Margin="199,235,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="247"/>
+            <TextBox Name="qualification" HorizontalAlignment="Left" Height="25" Margin="199,280,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="122"/>
+            <ComboBox Name="boardofexam" HorizontalAlignment="Left" Margin="199,35,0,0" VerticalAlignment="Top" Width="120" Height="26">
+                <ComboBoxItem Content="State Board"></ComboBoxItem>
+                <ComboBoxItem Content="Matriculation Board"></ComboBoxItem>
+                <ComboBoxItem Content="CBSC" ></ComboBoxItem>
+            </ComboBox>
+            <Label Content="Board Name" HorizontalAlignment="Left" Height="27" Margin="37,344,0,0" VerticalAlignment="Top" Width="92"/>
+            <TextBox Name="boardname" HorizontalAlignment="Left" Height="25" Margin="199,344,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="160"/>
+            <Button x:Name="button1" Content="Submit" HorizontalAlignment="Left" Height="38" Margin="78,458,0,0" VerticalAlignment="Top" Width="165" Click="button1_Click"/>
+            <Button Content="Cancel" HorizontalAlignment="Left" Height="38" Margin="287,458,0,0" VerticalAlignment="Top" Width="134" Click="Button_Click_2"/>
+            <Button  Visibility="Collapsed" Content="R" HorizontalAlignment="Left" Height="26" Margin="223,427,0,0" VerticalAlignment="Top" Width="20" Click="Button_Click_1" RenderTransformOrigin="15.45,0.308"/>
+            <TextBlock x:Name="block1" Foreground="Black" HorizontalAlignment="Left" Height="25" Margin="154,427,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="64" RenderTransformOrigin="2.559,1.4"/>
+            <TextBox Name="sec" HorizontalAlignment="Left" Height="25" Margin="79,427,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.541,0.091" TextChanged="TextBox_TextChanged_2"/>
+            <Label Content="Enter Verification Code" HorizontalAlignment="Left" Height="27" Margin="79,395,0,0" VerticalAlignment="Top" Width="212"/>
+
+        </Grid>
+    </Grid>
+</Window>

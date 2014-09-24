@@ -1,0 +1,99 @@
+﻿Build started 5/18/2013 3:14:49 PM.
+     1>Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\Invert.vcxproj" on node 4 (Build target(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\fxc.exe /nologo /E"PSMain" /T ps_4_0_level_9_1 /Fh "PixelShader.hps" /Vn "g_psshader" PixelShader.hlsl 
+         compilation header save succeeded; see C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\PixelShader.hps
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\fxc.exe /nologo /E"VSMain" /T vs_4_0_level_9_1 /Fh "VertexShader.hvs" /Vn "g_vsshader" VertexShader.hlsl 
+         compilation header save succeeded; see C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\VertexShader.hvs
+       Midl:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\midl.exe /metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /winrt /W1 /nologo /char signed /env arm32 /h "InvertTransform.h" /tlb "ARM\Debug\InvertTransform.tlb" /enum_class /ns_prefix InvertTransform.idl 
+         MIDLRT Processing .\InvertTransform.idl
+         InvertTransform.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Media.idl
+         Windows.Media.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Foundation.idl
+         Windows.Foundation.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\IVectorChangedEventArgs.idl
+         IVectorChangedEventArgs.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Users\PRABAK~1\AppData\Local\Temp\InvertTransform.idl-41721822
+         InvertTransform.idl-41721822
+         Processing .\Windows.Media.idl-425c8ff7
+         Windows.Media.idl-425c8ff7
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         Processing .\Windows.Foundation.idl-d9f7d0e2
+         Windows.Foundation.idl-d9f7d0e2
+         Processing .\IVectorChangedEventArgs.idl-3fd23088
+         IVectorChangedEventArgs.idl-3fd23088
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.acf
+         oaidl.acf
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_ARM\CL.exe /c /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\\" /IARM\Debug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\\" /I"Generated Files\\" /IARM\Debug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\\..\Common" /Zi /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _DEBUG /D _WINDOWS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"ARM\Debug\\" /Fd"ARM\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp Invert.cpp InvertModule.cpp
+         dllmain.cpp
+         Invert.cpp
+         InvertModule.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_ARM\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.dll" /INCREMENTAL /NOLOGO runtimeobject.lib kernel32.lib mf.lib mfuuid.lib mfplat.lib d3d11.lib /DEF:"Invert.def" /MANIFEST:NO /DEBUG /PDB:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:ARM /DLL ARM\Debug\dllmain.obj
+         ARM\Debug\Invert.obj
+         ARM\Debug\InvertModule.obj
+            Creating library C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.lib and object C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.exp
+         Invert.vcxproj -> C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.dll
+       CustomBuildStep:
+         mdmerge -metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" -o "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert" -i "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert" -v -partial
+         :VCEnd
+         Microsoft(R) Metadata Merge Utility Version 8.0.18.
+         
+         
+         Load input metadata file C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd.
+         Processed input metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\InvertTransform.winmd.
+         Saved output metadata file InvertTransform.winmd.
+         Validating metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.winmd.
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\MakePri.exe New -ProjectRoot "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\\" -ConfigXml ARM\Debug\priconfig.xml -OutputFile "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\Invert\InvertTransform.pri" -IndexName InvertTransform -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\Invert.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.41

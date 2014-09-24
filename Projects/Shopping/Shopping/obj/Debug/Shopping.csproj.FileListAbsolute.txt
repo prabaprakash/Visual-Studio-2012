@@ -1,0 +1,13 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\bin\Debug\Shopping.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\bin\Debug\Shopping.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\bin\Debug\Shopping.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Form2.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Form3.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Form4.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Form5.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Shopping\Shopping\obj\Debug\Shopping.Form6.resources

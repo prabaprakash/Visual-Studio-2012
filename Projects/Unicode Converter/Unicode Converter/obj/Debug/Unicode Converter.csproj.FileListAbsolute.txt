@@ -1,0 +1,12 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\bin\Debug\Unicode Converter.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\bin\Debug\Unicode Converter.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\bin\Debug\Unicode Converter.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\obj\Debug\Unicode Converter.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\obj\Debug\Unicode_Converter.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\obj\Debug\Unicode_Converter.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\obj\Debug\Unicode Converter.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\obj\Debug\Unicode Converter.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\obj\Debug\Unicode Converter.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\bin\Debug\Data\encrypted.db3
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\bin\Debug\System.Data.SQLite.dll
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Unicode Converter\Unicode Converter\bin\Debug\System.Data.SQLite.pdb

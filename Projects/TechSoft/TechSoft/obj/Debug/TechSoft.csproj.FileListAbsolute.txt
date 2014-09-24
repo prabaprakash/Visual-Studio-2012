@@ -1,0 +1,16 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\bin\Debug\TechSoft.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\bin\Debug\TechSoft.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\bin\Debug\TechSoft.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.Form2.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.Form3.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.Form4.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\bin\Debug\TechSoft.exe.manifest
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\bin\Debug\TechSoft.application
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.exe.manifest
+c:\users\prabakarthi\documents\visual studio 2012\Projects\TechSoft\TechSoft\obj\Debug\TechSoft.application

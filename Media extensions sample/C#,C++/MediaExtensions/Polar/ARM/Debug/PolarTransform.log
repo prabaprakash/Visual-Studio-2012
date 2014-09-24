@@ -1,0 +1,92 @@
+﻿Build started 5/18/2013 3:14:48 PM.
+     1>Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\PolarTransform.vcxproj" on node 3 (Build target(s)).
+     1>Midl:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\midl.exe /metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /winrt /W1 /nologo /char signed /env arm32 /h "PolarTransform.h" /tlb "ARM\Debug\PolarTransform.tlb" /enum_class /ns_prefix PolarTransform.idl 
+         MIDLRT Processing .\PolarTransform.idl
+         PolarTransform.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Media.idl
+         Windows.Media.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Foundation.idl
+         Windows.Foundation.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\IVectorChangedEventArgs.idl
+         IVectorChangedEventArgs.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Users\PRABAK~1\AppData\Local\Temp\PolarTransform.idl-b34ca8cc
+         PolarTransform.idl-b34ca8cc
+         Processing .\Windows.Media.idl-6add9f9f
+         Windows.Media.idl-6add9f9f
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         Processing .\Windows.Foundation.idl-96de7596
+         Windows.Foundation.idl-96de7596
+         Processing .\IVectorChangedEventArgs.idl-8b501ba2
+         IVectorChangedEventArgs.idl-8b501ba2
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.acf
+         oaidl.acf
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_ARM\CL.exe /c /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\\" /IARM\Debug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\\" /I"Generated Files\\" /IARM\Debug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\\..\Common" /Zi /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _DEBUG /D _WINDOWS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"ARM\Debug\\" /Fd"ARM\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp PolarEffect.cpp
+         dllmain.cpp
+         PolarEffect.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_ARM\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.dll" /INCREMENTAL /NOLOGO runtimeobject.lib kernel32.lib mf.lib mfuuid.lib mfplat.lib /DEF:"PolarEffect.def" /MANIFEST:NO /DEBUG /PDB:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:ARM /DLL ARM\Debug\dllmain.obj
+         ARM\Debug\PolarEffect.obj
+            Creating library C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.lib and object C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.exp
+         PolarTransform.vcxproj -> C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.dll
+       CustomBuildStep:
+         mdmerge -metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" -o "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform" -i "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar" -v -partial
+         :VCEnd
+         Microsoft(R) Metadata Merge Utility Version 8.0.18.
+         
+         
+         Load input metadata file C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd.
+         Processed input metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\PolarTransform.winmd.
+         Saved output metadata file PolarTransform.winmd.
+         Validating metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.winmd.
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\MakePri.exe New -ProjectRoot "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\\" -ConfigXml ARM\Debug\priconfig.xml -OutputFile "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\ARM\Debug\PolarTransform\PolarTransform.pri" -IndexName PolarTransform -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\PolarTransform.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.00

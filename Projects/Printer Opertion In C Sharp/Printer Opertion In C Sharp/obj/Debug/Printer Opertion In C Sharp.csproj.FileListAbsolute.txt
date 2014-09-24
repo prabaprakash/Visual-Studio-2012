@@ -1,0 +1,8 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\bin\Debug\Printer Opertion In C Sharp.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\obj\Debug\Printer_Opertion_In_C_Sharp.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\obj\Debug\Printer_Opertion_In_C_Sharp.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\obj\Debug\Printer Opertion In C Sharp.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\bin\Debug\Printer Opertion In C Sharp.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\bin\Debug\Printer Opertion In C Sharp.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\obj\Debug\Printer Opertion In C Sharp.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Printer Opertion In C Sharp\Printer Opertion In C Sharp\obj\Debug\Printer Opertion In C Sharp.pdb

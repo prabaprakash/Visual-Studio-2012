@@ -1,0 +1,22 @@
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Windows Phone Learn.dll
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Windows Phone Learn.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\AppManifest.xaml
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Windows_Phone_Learn_Debug_x86.xap
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\App.g.cs
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\MainPage.g.cs
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\Windows Phone Learn.g.resources
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\Windows_Phone_Learn.Resources.AppResources.resources
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\Windows Phone Learn.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\Windows Phone Learn.dll
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\Windows Phone Learn.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\XapCacheFile.xml
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\encrypted.db3
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Community.CsharpSqlite.SqlLiteClient.WP7.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\Bin\x86\Debug\Community.CsharpSqlite.WP7.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Windows Phone Learn\Windows Phone Learn\obj\x86\Debug\Windows Phone Learn.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\bin\Debug\Oracle 11g In CSharp.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\bin\Debug\Oracle 11g In CSharp.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\bin\Debug\Oracle 11g In CSharp.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\obj\Debug\Oracle 11g In CSharp.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\obj\Debug\Oracle_11g_In_CSharp.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\obj\Debug\Oracle_11g_In_CSharp.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\obj\Debug\Oracle 11g In CSharp.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\obj\Debug\Oracle 11g In CSharp.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Oracle 11g In CSharp\Oracle 11g In CSharp\obj\Debug\Oracle 11g In CSharp.pdb

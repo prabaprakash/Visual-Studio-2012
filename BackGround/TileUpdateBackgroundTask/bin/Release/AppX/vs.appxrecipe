@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E1BA46F46F82277CBBA66A0DAA46791E2709EAFFEE76DB4EF45ECB862D1B5BA3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c36050f1-d46a-43d8-b817-164f5fbb3b55_1.0.0.0_neutral__tbz3402trp7yy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c36050f1-d46a-43d8-b817-164f5fbb3b55_tbz3402trp7yy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c36050f1-d46a-43d8-b817-164f5fbb3b55</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dave</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-01T11:44:20.656</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\TileUpdateBackgroundTask.exe">
+      <PackagePath>TileUpdateBackgroundTask.exe</PackagePath>
+      <Modified>2013-05-01T11:44:19.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\TileUpdateBackgroundTask.pdb">
+      <PackagePath>TileUpdateBackgroundTask.pdb</PackagePath>
+      <Modified>2013-05-01T11:44:19.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.pdb">
+      <PackagePath>BackgroundTasks.pdb</PackagePath>
+      <Modified>2013-05-01T11:44:18.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\BackgroundTasks\bin\Release\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+      <Modified>2013-05-01T11:44:18.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\Assets\badge.png">
+      <PackagePath>Assets\badge.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-01T11:43:31.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-21T22:07:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-21T22:07:08.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-05-01T11:44:16.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PrabaKarthi\Documents\Visual Studio 2012\BackGround\TileUpdateBackgroundTask\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-05-01T11:44:19.828</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

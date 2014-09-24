@@ -1,0 +1,23 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\bin\Release\Data Binding.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\bin\Release\Data Binding.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\bin\Release\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\bin\Release\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\bin\Release\Data Binding.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\App.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\Common\StandardStyles.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\MainPage.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\XamlTypeInfo.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\App.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\Common\StandardStyles.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\MainPage.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\Data Binding.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\Data Binding.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Data Binding\Data Binding\obj\Release\ProjectArchitectures.txt

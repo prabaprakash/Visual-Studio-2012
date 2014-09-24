@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OMSHAKTHI</Machine>
+    <WindowsUser>PrabaKarthi</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>CB2A04A4E5BD08E2740020D1DBFD605E120241B44C328E1A34EEC25741604576</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c21feab3-4849-4b0e-94ef-fba00e488d7b_1.0.0.0_x86__357g7sqkmfbsp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c21feab3-4849-4b0e-94ef-fba00e488d7b_357g7sqkmfbsp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c21feab3-4849-4b0e-94ef-fba00e488d7b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=PrabaKarthi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-15T06:23:19.330</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\C_Library_in_CSharp.exe">
+      <PackagePath>C_Library_in_CSharp.exe</PackagePath>
+      <Modified>2013-08-15T06:44:13.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\C_Library_in_CSharp.pdb">
+      <PackagePath>C_Library_in_CSharp.pdb</PackagePath>
+      <Modified>2013-08-15T06:44:13.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\LibraryCDll.dll">
+      <PackagePath>LibraryCDll.dll</PackagePath>
+      <Modified>2013-08-15T06:44:07.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-08-15T04:53:31.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-08-15T06:26:06.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\prabakarthi\documents\visual studio 2012\Projects\C_Library_in_CSharp\C_Library_in_CSharp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-15T06:23:19.226</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

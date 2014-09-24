@@ -1,0 +1,9 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\bin\Debug\Notify Icon.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\bin\Debug\Notify Icon.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\bin\Debug\Notify Icon.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\obj\Debug\Notify_Icon.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\obj\Debug\Notify_Icon.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\obj\Debug\Notify Icon.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\obj\Debug\Notify Icon.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\obj\Debug\Notify Icon.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Notify Icon\Notify Icon\obj\Debug\Notify Icon.csprojResolveAssemblyReference.cache

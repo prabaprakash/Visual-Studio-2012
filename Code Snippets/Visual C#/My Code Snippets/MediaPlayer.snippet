@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>SnippetFile1</Title>
+      <Author>PrabaKarthi</Author>
+      <Description>
+      </Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="csharp"><![CDATA[using Callisto.Controls;
+using System;
+using System.Collections.Generic;
+using Windows.Storage;
+using Windows.Storage.Pickers;
+using Windows.UI.Popups;
+using Windows.UI.ViewManagement;
+using Windows.UI.Xaml;
+using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Controls.Primitives;
+using Windows.UI.Xaml.Input;
+using Windows.UI.Xaml.Navigation;
+
+
+
+namespace IPlayer
+{
+  
+    public sealed partial class MainPage : Common.LayoutAwarePage
+    {
+      public  IReadOnlyList<StorageFile> file,file1;
+         public MainPage()
+        {
+            this.InitializeComponent();
+            Storyboard1.Begin();
+            mediaElement.IsInteractive = true;
+            mediaElement.RightTapped += mediaElement_RightTapped;
+        }
+
+       async  void mediaElement_RightTapped(object sender, RightTappedRoutedEventArgs e)
+         {
+             try
+             {
+                 //var button = (MediaElement)sender;
+                 //var transform = button.TransformToVisual(this);
+                 //var point = transform.TransformPoint(new Windows.Foundation.Point(0, 0));
+
+                 PopupMenu p = new PopupMenu();
+                 p.Commands.Add(new UICommand("Play", null, 0));
+                 p.Commands.Add(new UICommand("Pause", null, 1));
+                 p.Commands.Add(new UICommand("Next", null, 2));
+                 p.Commands.Add(new UICommand("Previous", null, 3));
+                 p.Commands.Add(new UICommandSeparator());
+                 p.Commands.Add(new UICommand("Open", null, 4));
+
+            var selectedCommand= await p.ShowAsync(new Windows.Foundation.Point(100,100));
+            if (selectedCommand != null)
+            {
+
+
+                switch ((int)selectedCommand.Id)
+                {
+                    case 0: //CUT
+                        mediaElement.Play();
+                        break;
+                    case 1: //COPY
+                        mediaElement.Pause();
+                        break;
+                    case 2: //PASTE
+                        nextvideo_Click(sender,e );
+                        break;
+                    case 3: //SELECT ALL
+                        recentvideo_Click(sender, e);
+                        break;
+                    case 4: //DELETE
+                        button1_Click(sender, e);
+                        break;
+                }
+            }
+             }
+             catch
+             {
+             }
+           
+         }
+        
+     
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+        }
+
+        private async void button1_Click(object sender, RoutedEventArgs e)
+        {
+            Storyboard1.Stop();
+            Storyboard2.Begin();
+            ellipse.Visibility = Visibility.Visible;
+            ellipse1.Visibility = Visibility.Visible;
+            ellipse2.Visibility = Visibility.Visible;
+            textBlock.Visibility = Visibility.Collapsed;
+            ApplicationViewState myViewState = ApplicationView.Value;
+
+            if (myViewState == ApplicationViewState.Snapped)
+            {
+                Windows.UI.ViewManagement.ApplicationView.TryUnsnap();
+            }
+
+            FileOpenPicker openPicker = new FileOpenPicker();
+            
+            openPicker.SuggestedStartLocation = PickerLocationId.ComputerFolder;
+
+            openPicker.FileTypeFilter.Add(".3g2");
+            openPicker.FileTypeFilter.Add(".3gp2");
+            openPicker.FileTypeFilter.Add(".3gp");
+            openPicker.FileTypeFilter.Add(".3gpp");
+            openPicker.FileTypeFilter.Add(".m4a");
+            openPicker.FileTypeFilter.Add(".m4v");
+            openPicker.FileTypeFilter.Add(".mp4v");
+            openPicker.FileTypeFilter.Add(".mp4");
+            openPicker.FileTypeFilter.Add(".mov");
+            openPicker.FileTypeFilter.Add(".m2ts");
+            openPicker.FileTypeFilter.Add(".asf");
+            openPicker.FileTypeFilter.Add(".wm");
+            openPicker.FileTypeFilter.Add(".wm");
+            openPicker.FileTypeFilter.Add(".wmv");
+            openPicker.FileTypeFilter.Add(".wma");
+            openPicker.FileTypeFilter.Add(".aac");
+            openPicker.FileTypeFilter.Add(".adt");
+            openPicker.FileTypeFilter.Add(".mp3");
+            openPicker.FileTypeFilter.Add(".wav");
+            openPicker.FileTypeFilter.Add(".avi");
+            openPicker.FileTypeFilter.Add(".ac3");
+            openPicker.FileTypeFilter.Add(".ec3");
+            
+           
+           
+            openPicker.ViewMode = PickerViewMode.List;
+            
+            mediaElement.Pause();
+         
+             file1 = await openPicker.PickMultipleFilesAsync();
+             ls1.Visibility = Visibility.Visible;
+
+            
+            if (file1.Count > 0)
+            {
+                ls1.Items.Clear();
+                file = file1;
+                a = 0;
+               
+            // StringBuilder output = new StringBuilder("Picked files:\n");
+    // Application now has read/write access to the picked file(s)
+    foreach (StorageFile files in file)
+    {
+        ls1.Items.Add(files.Name);
+       // mediaElement.SetSource((await files.OpenAsync(FileAccessMode.Read)),"");
+    }
+    ls1.SelectedIndex = 0;
+   await Playnextbefore();
+
+  
+            }
+            else
+            {
+               mediaElement.Play();
+               ls1.Visibility = Visibility.Collapsed;
+            }
+            //StorageFile file = await openPicker.PickSingleFileAsync();
+            //if (file != null)
+            //{
+               
+            //    mediaElement.SetSource((await file.OpenAsync(FileAccessMode.Read)), "");
+             
+            //}
+            //else
+            //{
+            //    mediaElement.Play();
+            //}
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            Windows.UI.ViewManagement.ApplicationView.TryUnsnap();
+        }
+
+       
+
+       
+        private void button1_PointerEntered_1(object sender, PointerRoutedEventArgs e)
+        {
+            elipse1.Visibility = Visibility.Visible;
+        }
+
+      
+        private void button1_PointerExited(object sender, PointerRoutedEventArgs e)
+        {
+            elipse1.Visibility = Visibility.Collapsed;
+        }
+
+        private async void ls1_SelectionChanged(object sender, Windows.UI.Xaml.Controls.SelectionChangedEventArgs e)
+        {
+          
+           
+            try
+            {
+                if (file.Count > 0)
+                {
+
+                    foreach (StorageFile files in file)
+                    {
+                        if (files.Name == ls1.SelectedItem.ToString())
+                        {
+                            mediaElement.SetSource((await files.OpenAsync(FileAccessMode.Read)), "");
+                           /// ls1.Visibility = Visibility.Collapsed;
+
+                        }
+                    }
+
+                }
+            }
+            catch
+            {
+
+            }
+            }
+        
+
+        private void bt2_Click(object sender, RoutedEventArgs e)
+        {
+            if (ls1.Items.Count >0)
+            {
+                ls1.Visibility = Visibility.Visible;
+            }
+            
+        }
+      public Int32 a=0;
+        private async void mediaElement_MediaEnded(object sender, Microsoft.PlayerFramework.MediaPlayerActionEventArgs e)
+        {
+            try
+            {
+                Int32 b = ls1.Items.Count;
+                a = int.Parse(ls1.SelectedIndex.ToString());
+                if (a < b-1)
+                {
+
+
+                  //  txt1.Text = "a is" + a + "b is" + b.ToString();
+                    a = a + 1;
+                    ls1.SelectedIndex = a;
+
+                    await Playnextbefore();
+                }
+
+                else
+                {
+                    ls1.SelectedIndex = 0;
+                    await Playnextbefore();
+                }
+            }
+            catch
+            {
+            }
+
+        }
+
+        private async System.Threading.Tasks.Task Playnextbefore()
+        {
+            if (file.Count > 0)
+            {
+
+                foreach (StorageFile files in file)
+                {
+                    if (files.Name == ls1.SelectedItem.ToString())
+                    {
+
+                        mediaElement.SetSource((await files.OpenAsync(FileAccessMode.Read)), "");
+                 
+                      //  ls1.Visibility = Visibility.Collapsed;
+
+                    }
+                }
+            }
+        }
+
+        private void mediaElement_PointerPressed(object sender, PointerRoutedEventArgs e)
+        {
+            ls1.Visibility = Visibility.Collapsed;
+           
+        }
+
+        private async void nextvideo_Click(object sender, RoutedEventArgs e)
+        {
+            if (ls1.Items.Count > 0)
+            {
+                ls1.Visibility = Visibility.Visible;
+                ls1.IsActiveView = true;
+            }
+
+          
+            try
+            {
+                Int32 b = ls1.Items.Count;
+                a = int.Parse(ls1.SelectedIndex.ToString());
+                if (a < b - 1)
+                {
+
+
+                    //  txt1.Text = "a is" + a + "b is" + b.ToString();
+                    a = a + 1;
+                    ls1.SelectedIndex = a;
+
+                    await Playnextbefore();
+                }
+
+                else
+                {
+                    ls1.SelectedIndex = 0;
+                    await Playnextbefore();
+                }
+            }
+            catch
+            {
+            }
+           
+        }
+
+       
+        private async void recentvideo_Click(object sender, RoutedEventArgs e)
+        {
+            if (ls1.Items.Count > 0)
+            {
+                ls1.Visibility = Visibility.Visible;
+            }
+            try
+            {
+                Int32 b = ls1.Items.Count;
+                a = int.Parse(ls1.SelectedIndex.ToString());
+
+              
+               if (a>0 && a <= b-1)
+                {
+
+
+                    //  txt1.Text = "a is" + a + "b is" + b.ToString();
+                    a = a - 1;
+                    ls1.SelectedIndex = a;
+
+                    await Playnextbefore();
+                }
+               else if(a == 0)
+               {
+                   ls1.SelectedIndex = b - 1;
+                   await Playnextbefore();
+               }
+
+             
+            }
+            catch
+            {
+            }
+        }
+
+        
+
+        private void Storyboard1_Completed(object sender, object e)
+        {
+        //Storyboard1.Stop();
+    
+
+            Storyboard2.Begin();
+        }
+
+        private void Storyboard2_Completed(object sender, object e)
+        {
+            
+            Storyboard1.Begin();
+            
+        }
+        public string mutestate = "Mute";
+        public string visualstate = "Stop Visualization";
+        int storyint = 0;
+       
+        private void optionflyout(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                Flyout fly = new Flyout();
+                fly.PlacementTarget = sender as UIElement;
+                fly.Placement = PlacementMode.Top;
+                fly.Closed += (x, y) =>
+                {
+                   
+                };
+
+                 MenuItem menuitem1 = new MenuItem();
+                 MenuItem menuitem2 = new MenuItem();
+                 MenuItem menuitem3 = new MenuItem();
+                Menu menu = new Menu();
+
+
+                menuitem1.Tag = mutestate;
+                menuitem1.Text = mutestate;
+                menuitem1.Tapped += (a, b) =>
+                    {
+                       
+                        if (mediaElement.IsMuted!=true)
+                        {
+                            mediaElement.IsMuted = true;
+                            mutestate = "UnMute";
+                         
+
+                        }
+                        else
+                        {
+                            mutestate = "Mute";
+                            mediaElement.IsMuted = false;
+                        }
+                    };
+                menuitem1.MenuTextMargin = new Thickness(28, 10, 28, 12);
+
+
+                menuitem2.Tag =visualstate;
+                menuitem2.Text = visualstate;
+                menuitem2.Tapped += (c, d) =>
+                    {
+                        if (storyint == 0)
+                        {
+                            visualstate = "Start Visualization";
+                            Storyboard2.Stop();
+                            ellipse.Visibility = Visibility.Collapsed;
+                            ellipse1.Visibility = Visibility.Collapsed;
+                            ellipse2.Visibility = Visibility.Collapsed;
+                            storyint = 1;
+                        }
+                        else
+                        {
+                            visualstate = "Stop Visualization";
+                            Storyboard2.Begin();
+                            ellipse.Visibility = Visibility.Visible;
+                            ellipse1.Visibility = Visibility.Visible;
+                            ellipse2.Visibility = Visibility.Visible;
+                            storyint = 0;
+                        }
+                    };
+                menuitem2.MenuTextMargin = new Thickness(28, 10, 28, 12);
+
+
+
+                menuitem3.Tag = "Mute";
+                menuitem3.Text = "Mute";
+                menuitem3.Tapped += (j, f) =>
+                    {
+
+                    };
+                menuitem3.MenuTextMargin = new Thickness(28, 10, 28, 12);
+
+
+                menu.Items.Add(menuitem1);
+                menu.Items.Add(menuitem2);
+                menu.Items.Add(menuitem3);
+                fly.HostMargin = new Thickness(0);
+                fly.Content = menu;
+                fly.IsOpen = true;
+                
+                UpdateLayout();
+            }
+            catch
+            {
+            }
+
+           // UpdateLayout();
+        }
+
+       
+       
+        private void ls1_KeyUp(object sender, KeyRoutedEventArgs e)
+        {
+            //if (ls1.SelectedIndex <= 0)
+            //{
+            //    ls1.SelectedIndex = ls1.Items.Count - 1;
+            //}
+        }
+
+        private void ls1_KeyDown_1(object sender, KeyRoutedEventArgs e)
+        {
+            if (ls1.Items.Count == ls1.SelectedIndex + 1)
+            {
+                ls1.SelectedIndex = 0;
+            }
+        }
+
+        //private void keydowncontrol(object sender, KeyRoutedEventArgs e)
+        //{
+        //   if (e.Key == Windows.System.VirtualKey.Space)
+        //    {
+        
+        //   mediaElement.Pause();
+        //   }
+        //}
+        //}
+
+
+       
+      
+
+       
+
+       
+    }
+}
+]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

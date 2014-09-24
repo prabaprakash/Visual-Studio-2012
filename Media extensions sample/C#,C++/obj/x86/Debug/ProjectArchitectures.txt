@@ -1,0 +1,8 @@
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\GeometricSource.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Grayscale\Grayscale.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Invert\Invert.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Decoder\Mpeg1Decoder.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Mpeg1Source\MPEG1Source.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\PolarTransform.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\Polar\PolarTransform.vcxproj;x86
+C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensionsCS.csproj;x86

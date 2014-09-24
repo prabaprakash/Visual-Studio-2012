@@ -1,0 +1,39 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\App.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\MainPage.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\App.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Common\StandardStyles.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\MainPage.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\Developing Styles.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\Developing Styles.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\Developing Styles.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Developing Styles.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Developing Styles.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\ProjectArchitectures.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\MyUserControl1.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\MyUserControl1.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\MyUserControl1.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\WinRTXamlToolkit.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Developing Styles.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Developing Styles.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Themes\Generic.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\Themes\Generic.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\bin\Debug\Callisto.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Developing Styles\Developing Styles\obj\Debug\pri.resfiles.intermediate

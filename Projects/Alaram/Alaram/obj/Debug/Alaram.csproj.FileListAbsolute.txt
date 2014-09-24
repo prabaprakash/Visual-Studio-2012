@@ -1,0 +1,9 @@
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\bin\Debug\Alaram.exe.config
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\bin\Debug\Alaram.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\bin\Debug\Alaram.pdb
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\obj\Debug\Alaram.csprojResolveAssemblyReference.cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\obj\Debug\Alaram.Form1.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\obj\Debug\Alaram.Properties.Resources.resources
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\obj\Debug\Alaram.csproj.GenerateResource.Cache
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\obj\Debug\Alaram.exe
+c:\users\prabakarthi\documents\visual studio 2012\Projects\Alaram\Alaram\obj\Debug\Alaram.pdb

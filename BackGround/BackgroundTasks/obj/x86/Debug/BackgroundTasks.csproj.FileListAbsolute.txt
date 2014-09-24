@@ -1,0 +1,16 @@
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\BackgroundTasks.winmd
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\BackgroundTasks.winmdobj
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\BackgroundTasks.compile.pdb
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\x86\Debug\BackgroundTasks.winmd
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\x86\Debug\BackgroundTasks.pdb
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\bin\x86\Debug\BackgroundTasks.pri
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\BackgroundTasks.pdb
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\priconfig.xml
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\layout.resfiles
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\resources.resfiles
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\pri.resfiles
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Desktop\Windows 8\BackGround\BackgroundTasks\obj\x86\Debug\pri.resfiles.intermediate

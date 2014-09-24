@@ -1,0 +1,17 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\MainWindow.baml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\SignUp.baml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\Welcome.baml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\MainWindow.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\SignUp.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\Welcome.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS_MarkupCompile.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS.g.resources
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,99 @@
+﻿Build started 5/18/2013 3:16:27 PM.
+     1>Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\GeometricSource.vcxproj" on node 2 (Build target(s)).
+     1>Midl:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\midl.exe /metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /winrt /W1 /nologo /char signed /env win32 /h "GeometricSource.h" /tlb "Debug\GeometricSource.tlb" /enum_class /ns_prefix GeometricSource.idl 
+         MIDLRT Processing .\GeometricSource.idl
+         GeometricSource.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Media.idl
+         Windows.Media.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\Windows.Foundation.idl
+         Windows.Foundation.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\IVectorChangedEventArgs.idl
+         IVectorChangedEventArgs.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         MIDLRT Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Users\PRABAK~1\AppData\Local\Temp\GeometricSource.idl-30ab2a68
+         GeometricSource.idl-30ab2a68
+         Processing .\Windows.Media.idl-dc792c66
+         Windows.Media.idl-dc792c66
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\inspectable.idl
+         inspectable.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypesbase.idl
+         wtypesbase.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\hstring.idl
+         hstring.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\AsyncInfo.idl
+         AsyncInfo.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\winrt\EventToken.idl
+         EventToken.idl
+         Processing .\Windows.Foundation.idl-999eb879
+         Windows.Foundation.idl-999eb879
+         Processing .\IVectorChangedEventArgs.idl-301c1c2d
+         IVectorChangedEventArgs.idl-301c1c2d
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Windows Kits\8.0\Include\um\oaidl.acf
+         oaidl.acf
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\" /IDebug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\" /I"Generated Files\\" /IDebug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\..\Common" /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _DEBUG /D _WINDOWS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\StdAfx.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\" /IDebug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\" /I"Generated Files\\" /IDebug\ /I"C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\..\Common" /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _DEBUG /D _WINDOWS /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\StdAfx.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp GeometricMediaSource.cpp GeometricMediaStream.cpp GeometricSchemeHandler.cpp
+         dllmain.cpp
+         GeometricMediaSource.cpp
+         GeometricMediaStream.cpp
+         GeometricSchemeHandler.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\GeometricSource\GeometricSource.dll" /INCREMENTAL /NOLOGO runtimeobject.lib kernel32.lib mf.lib mfuuid.lib mfplat.lib /DEF:"MFGeometricSource.def" /MANIFEST:NO /DEBUG /PDB:"Debug\GeometricSource\GeometricSource.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"Debug\GeometricSource\GeometricSource.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\GeometricMediaSource.obj
+         Debug\GeometricMediaStream.obj
+         Debug\GeometricSchemeHandler.obj
+         Debug\pch.obj
+            Creating library Debug\GeometricSource\GeometricSource.lib and object Debug\GeometricSource\GeometricSource.exp
+         GeometricSource.vcxproj -> C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\Debug\GeometricSource\GeometricSource.dll
+       CustomBuildStep:
+         mdmerge -metadata_dir "C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" -o "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\Debug\GeometricSource" -i "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource" -v -partial
+         :VCEnd
+         Microsoft(R) Metadata Merge Utility Version 8.0.18.
+         
+         
+         Load input metadata file C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd.
+         Processed input metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\GeometricSource.winmd.
+         Saved output metadata file GeometricSource.winmd.
+         Validating metadata file C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\Debug\GeometricSource\GeometricSource.winmd.
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\MakePri.exe New -ProjectRoot "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\\" -ConfigXml Debug\priconfig.xml -OutputFile "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\Debug\GeometricSource\GeometricSource.pri" -IndexName GeometricSource -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\PrabaKarthi\Desktop\Media extensions sample\C#,C++\MediaExtensions\GeometricSource\GeometricSource.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.59
